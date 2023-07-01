@@ -1,0 +1,323 @@
+[
+    {
+      "prompt": "Can you recommend any accessories for Product A?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "Why was I charged twice for my recent purchase?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "My device is not connecting to the Wi-Fi network. What should I do?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How can I request a refund for my recent purchase?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "What are the system requirements for installing Product B?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I forgot my account password. How can I reset it?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "Can I return a product after the return window has expired?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "How do I troubleshoot error code XYZ on my device?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "Is there a warranty for Product C?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I accidentally deleted an important file. Can I recover it?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How can I update my shipping address?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "What is the return policy for your products?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "How can I track my order?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "How do I install the software for Product D?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "My device is not charging. What should I do?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "Can you provide me with the dimensions of Product E?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I received the wrong item in my order. What should I do?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "How do I check my order status?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "My device is running slow. Any suggestions?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "What is the price of Product F?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "How can I cancel my subscription?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "My device's screen is cracked. Can it be repaired?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How can I transfer my license to a new device?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I have a question about the warranty of Product G.",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "My device won't turn on. What should I do?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How do I unsubscribe from promotional emails?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "Is there a user manual available for Product H?",
+      "completion": "product inquiries"
+    },{
+      "prompt": "I am being billed for a service I did not subscribe to. What should I do?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "How can I optimize the performance of Product I?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "What payment methods do you accept?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "Can I use Product J with other compatible devices?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I am experiencing frequent crashes on my device. How can I resolve this?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "What is the expected delivery time for my order?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "How do I activate my account?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "Does Product K come with a warranty?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "My device's battery drains quickly. Any suggestions?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How do I request a replacement for a faulty product?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "Can I transfer my license to another person?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I am unable to log in to my account. What should I do?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How can I update my email address?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "What are the compatible operating systems for Product L?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I am unable to access certain features on my device. How can I fix this?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "Do you offer any promotions or discounts?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "What is the storage capacity of Product M?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "My device is not recognizing external devices. What should I do?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How do I request an upgrade for my subscription?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "Can I use Product N internationally?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I accidentally deleted important files. Can they be recovered?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "How can I update my payment method?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "What are the installation requirements for Product O?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "My device's touch screen is unresponsive. How can I troubleshoot this?",
+      "completion": "technical support"
+    },
+    {
+      "prompt": "What is the return process for a faulty product?",
+      "completion": "billing"
+    },
+    {
+      "prompt": "Can I use Product P with third-party accessories?",
+      "completion": "product inquiries"
+    },
+    {
+      "prompt": "I am unable to connect to a specific website. What should I do?",
+      "completion": "technical support"
+    },{
+        "prompt": "How do I change my subscription plan?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "What are the system requirements for running Product Q?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "I am experiencing audio issues on my device. How can I fix them?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "Can I request a refund for a digital purchase?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "Is Product R compatible with my operating system?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "I accidentally spilled liquid on my device. What should I do?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "How do I update my account password?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "What are the available color options for Product S?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "My device's screen is frozen. How can I resolve this issue?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "How can I view my purchase history?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "Can Product T be used in conjunction with other devices?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "I am unable to connect to a specific Bluetooth device. How can I troubleshoot this?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "How do I update my billing information?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "What are the specifications of Product U?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "My device is heating up quickly. Is this normal?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "Can I transfer my subscription to another account?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "How can I customize the settings of Product V?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "I am experiencing network connectivity issues. How can I troubleshoot them?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "What are the available payment options?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "Is there a user forum or community for users of Product W?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "My device's battery is not holding a charge. How can I resolve this?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "How can I update my shipping method?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "What are the different package options for Product X?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "I am unable to print from my device. How can I troubleshoot this issue?",
+        "completion": "technical support"
+      },
+      {
+        "prompt": "How can I contact customer support?",
+        "completion": "billing"
+      },
+      {
+        "prompt": "Does Product Y come with a money-back guarantee?",
+        "completion": "product inquiries"
+      },
+      {
+        "prompt": "My device's camera is not functioning properly. How can I fix this?",
+        "completion": "technical support"
+      }]
